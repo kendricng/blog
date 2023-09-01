@@ -1,4 +1,4 @@
-baseURL: "https://kendric.github.io/"
+baseURL: "https://kendric.github.io/blog/"
 title: Kendric's Blog 
 paginate: 5
 theme: PaperMod
