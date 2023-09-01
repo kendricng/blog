@@ -1,0 +1,4 @@
+baseURL: "https://kendric.github.io/"
+title: Kendric's Blog 
+paginate: 5
+theme: PaperMod
